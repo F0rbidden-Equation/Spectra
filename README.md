@@ -12,29 +12,31 @@
 - ✅ Clean **MVC architecture** (Model - View - Controller)
 - ✅ Payloads stored in MySQL using DAO pattern
 - ✅ Modules:
-- SQL Injection (SQLi)
-- Cross-Site Scripting (XSS)
-- XML Injection (XXE)
-- Remote Code Execution (RCE)
-- Local File Inclusion (LFI)
-- Remote File Inclusion (RFI)
-- Server-Side Request Forgery (SSRF)
-- Command Injection
-- JSON Injection
-- HTTP Header Injection
-- Path Traversal
-- GraphQL Injection
-- LDAP Injection
-- SSTI (Server-Side Template Injection)
-- Prototype Pollution
-- Buffer Overflow
-- Open Redirect
-- Regex Injection
-- CSRF (Cross-Site Request Forgery)
-- Deserialization Attacks
-- WAF Bypass Payloads
-- XCE Payloads
-- SMTP Injection
+| Payload Module               | Description                          |
+|------------------------------|--------------------------------------|
+| SQL Injection (SQLi)         | SQL-based attacks and injections     |
+| Cross-Site Scripting (XSS)   | Inject and test XSS payloads         |
+| XML Injection (XXE)          | XML External Entity attack payloads  |
+| Remote Code Execution (RCE)  | Execute code remotely                |
+| Local File Inclusion (LFI)   | Read local files via inclusion flaws |
+| Remote File Inclusion (RFI)  | Include remote files                 |
+| Server-Side Request Forgery (SSRF) | SSRF payloads for internal access |
+| Command Injection            | Shell command injection payloads     |
+| JSON Injection               | Inject payloads into JSON structures |
+| HTTP Header Injection        | Inject headers and manipulate responses |
+| Path Traversal               | Directory traversal attacks          |
+| GraphQL Injection            | Exploit GraphQL endpoints            |
+| LDAP Injection               | LDAP query manipulation              |
+| SSTI (Server-Side Template Injection) | Exploit template engines         |
+| Prototype Pollution          | Object prototype manipulation        |
+| Buffer Overflow              | Memory corruption testing            |
+| Open Redirect                | Redirect-based attack vectors        |
+| Regex Injection              | Inject regex patterns for DoS/exploitation |
+| CSRF (Cross-Site Request Forgery) | Token bypass attacks               |
+| Deserialization              | Unsafe object deserialization        |
+| WAF Bypass Payloads          | Payloads for bypassing firewalls     |
+| XCE Payloads                 | Custom XCE attack payloads           |
+| SMTP Injection               | Email header injection tests         |
 
 
 - ✅ Modules:
