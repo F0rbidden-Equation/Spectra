@@ -1,7 +1,6 @@
-# Spectra
-# ⚡ Spectra
 
-![Spectra Logo](./logo_spectra.png)
+
+![Spectra Logo](./spectra.png)
 
 **Spectra** is an offensive security framework developed in **Java**, combining modules for **fuzzing**, **lightweight reverse engineering**, and **exploit management**. Inspired by tools like **Ghidra** and **Metasploit**, Spectra offers a modern **JavaFX** GUI and a robust **MySQL** backend to centralize and automate your attacks.
 
