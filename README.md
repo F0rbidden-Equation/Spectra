@@ -138,3 +138,16 @@
 
 ## 📦 Project Structure
 
+```plaintext
+Spectra/
+├── src/
+│   ├── controller/    # User actions handling (JavaFX controllers)
+│   ├── model/         # Data structures and business logic
+│   ├── view/          # FXML UI files and GUI resources
+│   ├── dao/           # Database access layer (MySQL payloads manager)
+│   └── utils/         # Internal tools (parsers, payload encoders)
+├── resources/         # Images, FXML files, static payload templates
+├── db/                # SQL schema, database scripts, seed data
+├── README.md
+└── LICENSE
+
