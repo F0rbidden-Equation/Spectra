@@ -132,6 +132,8 @@
 - **MySQL / MariaDB**  
 - **JDBC**  
 - **Maven / Gradle**
+- **JavaScript**
+- **SQL**  
 
 ---
 
