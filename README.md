@@ -12,7 +12,32 @@
 - ✅ Clean **MVC architecture** (Model - View - Controller)
 - ✅ Payloads stored in MySQL using DAO pattern
 - ✅ Modules:
-  - HTTP / SQLi / XSS / XXE / RCE fuzzing
+- SQL Injection (SQLi)
+- Cross-Site Scripting (XSS)
+- XML Injection (XXE)
+- Remote Code Execution (RCE)
+- Local File Inclusion (LFI)
+- Remote File Inclusion (RFI)
+- Server-Side Request Forgery (SSRF)
+- Command Injection
+- JSON Injection
+- HTTP Header Injection
+- Path Traversal
+- GraphQL Injection
+- LDAP Injection
+- SSTI (Server-Side Template Injection)
+- Prototype Pollution
+- Buffer Overflow
+- Open Redirect
+- Regex Injection
+- CSRF (Cross-Site Request Forgery)
+- Deserialization Attacks
+- WAF Bypass Payloads
+- XCE Payloads
+- SMTP Injection
+
+
+- ✅ Modules:
   - Basic reverse engineering (string extraction, ELF/PE section reading)
   - Payload management and injection
 - 🚧 Future: Adaptive AI engine (dynamic attack adaptation based on server responses)
